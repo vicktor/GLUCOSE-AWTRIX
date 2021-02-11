@@ -1,4 +1,4 @@
-# AWTRIX
+# GLUCOSE AWTRIX
 
 Get data from NightScout and create a notification to be showed on AWTRIX
 
